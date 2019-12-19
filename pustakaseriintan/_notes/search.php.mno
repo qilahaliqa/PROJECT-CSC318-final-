@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_search" value="name:name;datatype:string,name:gender;datatype:string,name:date_of_birth;datatype:string,name:ic_num;datatype:string,name:phone_num;datatype:int,name:email;datatype:string,name:psi_t;datatype:int,name:password;datatype:string,name:expired_card;datatype:string" />
+</info>

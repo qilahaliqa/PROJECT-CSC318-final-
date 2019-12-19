@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cust_update" value="name:num;datatype:int,name:name;datatype:string,name:gender;datatype:string,name:dob_year;datatype:int,name:dob_months;datatype:string,name:dob_day;datatype:int,name:ic_num;datatype:string,name:phone_num;datatype:int,name:email;datatype:string,name:psi_t;datatype:int,name:password;datatype:string" />
+</info>
